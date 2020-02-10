@@ -1,4 +1,4 @@
 public class mytest {
-     public int s;
+     public int sx;
      
 }
